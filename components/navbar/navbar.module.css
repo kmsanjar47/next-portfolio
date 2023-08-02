@@ -1,0 +1,22 @@
+.navbar_container {
+  background-color: transparent;
+  color: grey;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100px;
+  position: fixed;
+}
+.navbar_container_items {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.navbar_container_item {
+  color: grey;
+  text-decoration: none;
+  font-weight: bold;
+}
+.navbar_container_item:hover {
+  color: green;
+}

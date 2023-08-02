@@ -1,0 +1,9 @@
+.footer_container {
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.footer_container_text {
+  font-weight: 600;
+}
